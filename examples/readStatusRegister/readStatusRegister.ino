@@ -8,7 +8,7 @@
  * @version  V1.0
  * @date  2019-03-3
  * @get from https://www.dfrobot.com
- * @url https://github.com/DFRobot/DFRobot_IIC_Serial
+ * @urlhttps://github.com/cdjq/W25Q
  */
 
 #include <W25Q.h>

@@ -22,7 +22,7 @@
  * @author [Arya](xue.peng@dfrobot.com)
  * @version  V1.0
  * @date  2019-02-28
- * @
+ * @url https://github.com/cdjq/W25Q
  */
 
 #ifndef __W25Q_H

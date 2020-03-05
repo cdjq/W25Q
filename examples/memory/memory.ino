@@ -41,10 +41,10 @@ void setup() {
 
   W25Q.eraseSector(secFirstAddr);
   W25Q.readFlash(addr, &str2, str1.length());
-  SerialUSB.println(str2,HEX);
+  SerialUSB.println(str1);
   W25Q.writeFlash(addr, &str1, str1.length());
   W25Q.readFlash(addr, &str2, str1.length());
-  SerialUSB.println(str2,HEX);
+  SerialUSB.println(str2);
 }
 
 void loop() {
